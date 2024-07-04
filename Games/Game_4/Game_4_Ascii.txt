@@ -1,0 +1,11 @@
+
+
+                                                    ___  ____  ____    _______     _______ _   _
+                                                   / _ \|  _ \|  _ \  | ____\ \   / / ____| \ | |
+                                                  | | | | | | | | | | |  _|  \ \ / /|  _| |  \| |
+                                                  | |_| | |_| | |_| | | |___  \ V / | |___| |\  |
+                                                   \___/|____/|____/  |_____|  \_/  |_____|_| \_|
+
+                ODD EVEN is a user vs computer game in which the user has to select an option between odd or even and then input
+              a number corresponding to which the computer will generate a random number.If the sum of both number is as per user's choice ,
+                                                             the user will win.

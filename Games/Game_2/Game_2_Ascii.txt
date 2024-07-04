@@ -1,0 +1,25 @@
+
+
+                                                       _   _ ___ ____ _   _   _     _____        __
+                                                      | | | |_ _/ ___| | | | | |   / _ \ \      / /
+                                                      | |_| || | |  _| |_| | | |  | | | \ \ /\ / /
+                                                      |  _  || | |_| |  _  | | |__| |_| |\ V  V /
+                                                      |_| |_|___\____|_| |_| |_____\___/  \_/\_/
+
+
+                                    All you need to do is guess whether the next card to be dealt will be higher or lower than the
+                                  one that is currently on the table. Higher and lower card game is very similar to casino war game.
+
+
+
+1) The player has to make an initial guess for the secret number within the specified range.
+
+2) After each guess, a feedback is provided to the player, indicating whether the secret number is higher, lower, or the same as the guessed number.
+
+3) If the guessed number is correct, the player wins, and the game ends.
+   If the guessed number is higher than the secret number, the message 'Too high' is displayed.
+   If the guessed number is lower than the secret number, the message 'Too low' is displayed.
+
+4) The total number of moves allowed is 7.
+
+5) The player continues to make guesses until there are no moves left.

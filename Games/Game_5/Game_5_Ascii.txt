@@ -1,0 +1,21 @@
+
+
+
+                                                     _   _    _    _   _  ____ __  __    _    _   _
+                                                    | | | |  / \  | \ | |/ ___|  \/  |  / \  | \ | |
+                                                    | |_| | / _ \ |  \| | |  _| |\/| | / _ \ |  \| |
+                                                    |  _  |/ ___ \| |\  | |_| | |  | |/ ___ \| |\  |
+                                                    |_| |_/_/   \_\_| \_|\____|_|  |_/_/   \_\_| \_|
+
+
+
+
+                              Hangman is a word-guessing game. One player thinks of a word, and the other player tries to guess it by
+                    suggesting letters. Incorrect guesses result in the drawing of a hangman figure. The game continues until the word is guessed
+                                                            or the hangman figure is completed.
+
+
+
+1) Maximum 7 mistakes are allowed.
+2) All alphabets are in lower case.
+3) If you enjoy, continue; otherwise, enter quit.
